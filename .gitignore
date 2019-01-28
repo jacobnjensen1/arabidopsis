@@ -1,5 +1,12 @@
+# Don't include the data
 coldStress/*
 developmental/*
 droughtStress/*
 heatStress/*
 DevBioPaper.pdf
+
+# Keep the scripts that get data
+!coldStress/getAll.sh
+!developmental/getAll.sh
+!droughtStress/getAll.sh
+!heatStress/getAll.sh
