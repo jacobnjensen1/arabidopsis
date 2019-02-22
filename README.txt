@@ -4,6 +4,7 @@ Arabidopsis thaliana transcriptomics
 With these data, you can do your own fancy plant transcriptomics studies! Below are two ideas.
 
 Hypothesis: Since Arabidopsis (thale cress) grows naturally in Scandanavia, drought is likely associated with frozen conditions. So, does cold stress trigger the same expressional response as drought stress? If so, is it a subset of differentially expressed (DE) genes in each condition, or is it the entire bundle of DE genes?
+   UPDATE -- see this paper: Rizhsky, L., Liang, H., Shuman, J., Shulaev, V., Davletova, S. and Mittler, R., 2004. When defense pathways collide. The response of Arabidopsis to a combination of drought and heat stress. Plant physiology, 134(4), pp.1683-1696.
 
 Hypothesis: Is there a point, developmentally, at which time expression for some set of genes stops changing (is adulthood a transcriptionally stable condition for plants)? Remember that some genes will change expression seasonally or according to stress, so this will be a "messy data" challenge.
 
